@@ -7,7 +7,7 @@ const expertise = [
     {
         id: 1,
         title: 'Hands on Testing',
-        desc: "Getting my hands dirty. Exploring the application and noting interesting functiionality.",
+        desc: "Getting my hands dirty. Exploring the application and noting interesting functionality.",
     },
     {
         id: 2,
